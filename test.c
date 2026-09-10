@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-printf("1234/n");
+printf("123\n");
 
 
 }
